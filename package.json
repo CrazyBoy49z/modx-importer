@@ -1,0 +1,11 @@
+{
+  "name": "modx-importer",
+  "version": "1.0.0",
+  "description": "Node based CSV importer for creating and updating modx resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hunter Kempton",
+  "license": "ISC"
+}
