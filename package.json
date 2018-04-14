@@ -2,13 +2,14 @@
   "name": "modx-importer",
   "version": "1.0.0",
   "description": "Node based CSV importer for creating and updating modx resources",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Hunter Kempton",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
   }
 }
